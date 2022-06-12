@@ -1,8 +1,9 @@
 // Javascript Error Test | The correction of a few errors
+
+
+
 function swt(){
-  
-  document.getElementById('h1').style.color = 'blue';
-  
+  document.getElementById('#h1').style.color('blue');
 }
 
 
